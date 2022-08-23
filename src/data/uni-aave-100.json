@@ -1,0 +1,1102 @@
+[
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 5.060351941389239e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 392050980392156860000,
+            "tx_hash": "\\x46f809de20854d9d8ed10ba195d26053614374bfde8c8c7444e81c4774dfaf35",
+            "usd_amount": 40432.2120117
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 4.243887099511271e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 357558956781448100000,
+            "tx_hash": "\\xdc7d8dfedf8a73f907c84b4770eac703ca0c02c98c6f92e26fc08c7ea15ad759",
+            "usd_amount": 37855.4729276405
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 2.436584596528794e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 186160142721609270000,
+            "tx_hash": "\\x8c73f21d56d1fa5e9b16978ce7fba1ded3c98c99bd5d673dc47e777848a522b5",
+            "usd_amount": 20126.1887673278
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 2.8529391395744116e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 231571699495740740000,
+            "tx_hash": "\\xf143140b24d111f3b3a878604570e4ccea237b5a9e89caec61579ee7325158dc",
+            "usd_amount": 20113.2209339996
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 2.2120538119923664e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 179163082437275980000,
+            "tx_hash": "\\xfc13defa8773270021bef6a2877cc8ed4e5a661212a257d09c4379128c195588",
+            "usd_amount": 20107.5691510106
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 2.478472586878667e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 189293344354266800000,
+            "tx_hash": "\\x8c9618fb5138cc3579afa69d1a15f86183fca56d708e006197ae261c18e6fbac",
+            "usd_amount": 20100.412679586
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 2.1492503515156872e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 179547946125341100000,
+            "tx_hash": "\\x028d9768975e2edc830044a9225ac21d09c84ae1431a90790c94731ed83851a9",
+            "usd_amount": 20073.9982831565
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 2.1711955828786578e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 175237510955302350000,
+            "tx_hash": "\\x615a384060df12654cd24120bb9d3f9e8eafcec8604efeaabd5e778fab627150",
+            "usd_amount": 20061.8471857988
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 2.1805277310906112e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 180293958521190250000,
+            "tx_hash": "\\x373f3e40c098937e403754c33a4df8238e1979800dc5ea920210897fe54e17dd",
+            "usd_amount": 20017.2445714118
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 2.366252290074387e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 182565491449945260000,
+            "tx_hash": "\\x5d7906ca2d031137fc58b79c9527175d16a9f2b3c4dba313895eeaa274ce67c0",
+            "usd_amount": 19971.1693282278
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.902243571101971e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 158682310370751640000,
+            "tx_hash": "\\xaececb4b4c4c780e9d30c8229fbc9c441e34cb7b407eedbc8b6abb3fe71388e7",
+            "usd_amount": 13562.9966619571
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.8363833218599868e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 149971044862932700000,
+            "tx_hash": "\\xd2863bcdd92098e6f0e0cf584485dd439549061b18c6e65f99e69ce8d911691f",
+            "usd_amount": 13093.4130848617
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.520363369581344e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 123317182981555260000,
+            "tx_hash": "\\xc6ae51de5b1d7dadcaa78e1769282bf6f9e918366d6f46cb6c732507b1d1bdc4",
+            "usd_amount": 12314.9432936089
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.621981887338084e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 130193308325568450000,
+            "tx_hash": "\\xc8f8bb3fa5c9feb7f658fa6a41f6084c2eb05f4d4c55e3d6d5c8904120b5cd79",
+            "usd_amount": 11527.3155191458
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.2019123031392358e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 96789883063066950000,
+            "tx_hash": "\\xa7d9f744edf13e87ac89d93fb01ac9f781ad949270c49ce3ea70f8ff19bd47b0",
+            "usd_amount": 11093.6505579751
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.4225902909856114e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 117064402810304450000,
+            "tx_hash": "\\xefb04877019fcc6ec2b5e61d30bc4a6f7d924e317ca0b7fda777ccfcb8078b4a",
+            "usd_amount": 10071.9392601781
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.4194759926428598e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 116252633544395360000,
+            "tx_hash": "\\x6efd45b409ceff75f2433b745f11a3575f6aee0c1737ce66176a88fed2f0f672",
+            "usd_amount": 10064.0847878379
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.2507436242167784e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 100073073073073060000,
+            "tx_hash": "\\xbdbb017351410835d69edf7ef92cf19b36113cd20727b650009ba0541e8194a9",
+            "usd_amount": 10055.9787387029
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0974831785924946e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 90243171084602880000,
+            "tx_hash": "\\x7d16985abdcdba475d45db3a948e41b3e184e5e9e7e91f9bb2acfee97a24e212",
+            "usd_amount": 10052.9459159073
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0626053966913591e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 89581541218637990000,
+            "tx_hash": "\\xf88cc1d9769e3e28efd1256548fdfca799c60851445b37f3090e4aac7a50fab4",
+            "usd_amount": 10052.2470527003
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.396198735963576e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 112139105519966370000,
+            "tx_hash": "\\x359fda9fab311044faeddc73a8c1e7a1ba6ca7928173ea358ac51e56c4e9fce6",
+            "usd_amount": 10052.1494188098
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.1142216343930553e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 91382998171846430000,
+            "tx_hash": "\\x9586893e65d2042033bea499022056fea410c4a89da2cad880e2b0c86b41f88d",
+            "usd_amount": 10050.2791422254
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.2527760464536996e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 101495431472081200000,
+            "tx_hash": "\\x7ab37843505cfa9a3758fd5a752b28dd8b971932787459393b81ea80bbd68d12",
+            "usd_amount": 10047.2638925587
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.1099044896199112e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 92056169429097610000,
+            "tx_hash": "\\x03b3ab524223fdccc61417ebcd603a83b65579638f2d80ed427da293f6015b13",
+            "usd_amount": 10044.6356310602
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.2028538243445615e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 92911710037174730000,
+            "tx_hash": "\\xf318d117e89d59815e9e2e70ac42c873c34da2bd7284f52e166b9ea091d58f5f",
+            "usd_amount": 10043.8294332771
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.2460383801163456e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 99081268582755200000,
+            "tx_hash": "\\x836e5a27381935f7a039573a9f95eb97e8f73809e44fb3be9188fd9ac7934c2c",
+            "usd_amount": 10043.0693437377
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.3161165115338827e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 104793501048218030000,
+            "tx_hash": "\\x43ace7532e80d572d544d7ecac3b836810ec87463c1b87e57d22ffeb839758a7",
+            "usd_amount": 10041.9689830035
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.2631192841779557e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 99081268582755200000,
+            "tx_hash": "\\x4462280848a0819ae23b0b2e05c1803fbd7cf141fd6051d5307d7872d45a9125",
+            "usd_amount": 10041.7983092147
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.1059233459051435e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 91382998171846430000,
+            "tx_hash": "\\x20610b6373a04158b983e4c4f59a7f9013a9b228a25db647563c04dc84bffe2e",
+            "usd_amount": 10041.7839808187
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.3172920839088072e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 105345626975763960000,
+            "tx_hash": "\\x9dbd14a7b796a7015624744b8408557c090f32518100e7bf4ecc38f8d9ddc0c5",
+            "usd_amount": 10037.7656793851
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.184966289794846e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 92226014760147600000,
+            "tx_hash": "\\x9d916740cdfcd331c1ee915ab4f0dd63912deee7a725ca3d7667ba6045b69d7f",
+            "usd_amount": 10036.6644745623
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.365507539550043e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 108686062055282600000,
+            "tx_hash": "\\x3b672e60eefe7244707cfb00e9313341e65b1806d18486be85c020a92b2fdf87",
+            "usd_amount": 10036.4804156928
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0685555541751924e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 89756524004991030000,
+            "tx_hash": "\\x6c14b1e21b3f9eb0acf4a553fe18d516eb1bae38f46c70448fa425541cc0e7ef",
+            "usd_amount": 10033.7366537051
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0963172006162237e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 87618755477651180000,
+            "tx_hash": "\\x7dcf0d99a2a98f1ba62a53ee94efbb00636d7f0a6c9745377699a9e1ffed30d3",
+            "usd_amount": 10031.3023856384
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.37383105064395e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 109836394342118560000,
+            "tx_hash": "\\x86a8c0903e0f497b197dd2dd64c3d01921411fca46af44240684761bc9839871",
+            "usd_amount": 10028.9666697008
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.26120918525784e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 99873126873126880000,
+            "tx_hash": "\\x68d34222232e688a245ef495630e694fec8c0b07c53b74ef2743c2530ab092d2",
+            "usd_amount": 10026.6130227998
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0905625401488384e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 87542031523642720000,
+            "tx_hash": "\\x39d973bd5e586f86a2419163ba6a4e02c4a3df8ab9e6ca6700af1e68f8b10109",
+            "usd_amount": 10022.2697439678
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.2030905662996543e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 93345471521942110000,
+            "tx_hash": "\\x71b16baf33e662c022526a8d86e99f3673cb86f334699f221133df84e840a3b3",
+            "usd_amount": 10021.7444172761
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.1129621316097714e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 90686244275303730000,
+            "tx_hash": "\\xd073aef4d25e2eafac049beca178801ea10e21eef3b3e0416afb9c402f7f2b0e",
+            "usd_amount": 10016.6591844879
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0587631573115364e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 89581541218637990000,
+            "tx_hash": "\\x8b8e73b08e285d392a80fad5ea9e9dbc87f71881dd5f7d04d9d8c1ad47621a18",
+            "usd_amount": 10015.8994681671
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.4162385920244048e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 113302666156308040000,
+            "tx_hash": "\\xfed23b4b0921d160abe07677a036ae9d094f7709c676b9d2347204081b21aa81",
+            "usd_amount": 10012.8068456125
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.1919015995479926e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 91877899765977970000,
+            "tx_hash": "\\x9f28801fecfbe660bfd1af99cc0c05ba1ea07321bcba0da5838f162a22e1d314",
+            "usd_amount": 10011.9734362031
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0549943862487135e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 89421288014311280000,
+            "tx_hash": "\\x54249426560f03309da8f170c7d31d61337e974f333fb6225382f6253a18a2a1",
+            "usd_amount": 10011.8967255003
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.423774422977562e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 121257956964072720000,
+            "tx_hash": "\\x7c454a8781693cb2a8bbcb6ea0356a30fc5ec978b3a2a1f4c8cf0c5520b10a51",
+            "usd_amount": 10009.1341935323
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.1070251356217585e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 91133090246125800000,
+            "tx_hash": "\\x5e59fe60f792ef60e94bcba4c6ac69cead149f0dc2ed24e68059a66e52f8d70b",
+            "usd_amount": 10007.5072260207
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.1849358529114451e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 93432710280373850000,
+            "tx_hash": "\\x68ecb8d8f79f5382d5ff703708463c52d22e640478cd8489731088c0937b0810",
+            "usd_amount": 10003.8402897196
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.3730964370072472e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 109279391513704920000,
+            "tx_hash": "\\xc8d6eb02eb83bdf3513ce11ac00101a3dd0f889e26a2704fa21ddd536ac58f4c",
+            "usd_amount": 9996.14206141276
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.413670332492861e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 117767174251849220000,
+            "tx_hash": "\\x66c313d86e72f6d9e6184b09e4453ad493f0f8f5f93b802d29719210bd1427a6",
+            "usd_amount": 9980.5125473996
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.3087015802644925e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 105115862102636580000,
+            "tx_hash": "\\xf648d1f77617205910177cc6fa88575ee43394cbf1fdf624bffb4b003ad97a9e",
+            "usd_amount": 9972.30604161543
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.354704927162672e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 108313109425785500000,
+            "tx_hash": "\\x7eb685a03ba3a7d17d5354f9234e915c1680d61a4a734b5c1832b42a21abf230",
+            "usd_amount": 9970.62826391727
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.2519353063812094e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 100000000000000000000,
+            "tx_hash": "\\x19d33840912b93ecc35c8c45bd00f15447bb8bffbca229994ceefb0092db6df0",
+            "usd_amount": 9927.84697960299
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.3758444358000173e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 110000000000000000000,
+            "tx_hash": "\\xb62b2720e9a4ddfc331f9b2853f6c45ddb23633bc177a03446c154bcb0dbd00e",
+            "usd_amount": 9919.83838211813
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0644760602487981e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 85640920177137840000,
+            "tx_hash": "\\xa542083dafeb3268f5e407608d966b9634a1dc2f7aaa8eccdd580121c46e35aa",
+            "usd_amount": 9867.69307850636
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0110865757784348e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 81344639722051760000,
+            "tx_hash": "\\x35c5e61b18f64ff3fd890b1810305b279b92672b5c12325d34bcbca1bd79f6db",
+            "usd_amount": 9312.10736291939
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 915917912068849000000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 73446295858553240000,
+            "tx_hash": "\\xc3011f295f632019f938ef2d14d8bf82826b1e7fd9d0698629cf9fa0fc685b63",
+            "usd_amount": 8472.24068663685
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 875845282844576200000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 72793281219693470000,
+            "tx_hash": "\\x264a29a553c8fd2e021183248b611cd2cffc951a88236139c63b3d212ec2746a",
+            "usd_amount": 8136.60267762611
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 898232846898180900000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 69671866198065930000,
+            "tx_hash": "\\xb92dfd85c044e6e0526947e9568d807a1f2f9653f60f9b49ee2cb3c28c36ef94",
+            "usd_amount": 7599.04988475861
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 827714933975075100000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 67663806958365610000,
+            "tx_hash": "\\x22c02bdd9c1df1279fb5f6e4c664252f3baaea05f282d9569ef374582478e42b",
+            "usd_amount": 7432.88010709618
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 880794086229606800000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 67667573066795790000,
+            "tx_hash": "\\xa813f000af34b62ba6a67415b14813f6d8abc908a819e2c2032c8f7d450ff320",
+            "usd_amount": 7389.8623834664
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 1.0409192338342538e+21,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 83943547752675930000,
+            "tx_hash": "\\xb52e109f442ba203f854abe2f1bed671d8e184b04d65ddbcad71c72ec9b91d8e",
+            "usd_amount": 7338.48059853149
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 841248341131989900000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 64565562985777250000,
+            "tx_hash": "\\x32e1f628573a3fbd8462d49eb290c978dcd14946416336438866171c05ed2a72",
+            "usd_amount": 7133.78593279927
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 783799744847494900000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 64025294917560476000,
+            "tx_hash": "\\x01f0f9ac520c64729bc323dd78c2ecc19424481796c504ea40d5f863750e28b4",
+            "usd_amount": 7109.06368576678
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 975784520559039300000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 80443015625126870000,
+            "tx_hash": "\\xb2aefef353b789bc43c1a5494f26888d491a9f7e740b1e3ff6629f3e641c4306",
+            "usd_amount": 6836.85189797953
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 936019065394816100000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 79305329238143140000,
+            "tx_hash": "\\x7a8d4050a2746399249c4280946fd61bc7c5bd0ff3ada568ac166b7a04dbade9",
+            "usd_amount": 6823.57898672821
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 900642151825204300000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 71994400585718350000,
+            "tx_hash": "\\x7e52aabd9780a186ca682a71b2a33181483ba17a311d0d44ed12a3feaa248e99",
+            "usd_amount": 6448.59780706846
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 734137025233421900000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 56499700330894705000,
+            "tx_hash": "\\x4aee7ace85204b8865978ae47390acd3e68a34334bca346ee48833f546b992d6",
+            "usd_amount": 6124.00251886568
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 865546420698821200000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 68696060775582910000,
+            "tx_hash": "\\x4a6bb2328e5d0fbc0992e6638852004edd14afff0618a2fefb8580390c72b8d3",
+            "usd_amount": 6110.75773013368
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 881787001231822200000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 74249164773098490000,
+            "tx_hash": "\\x3e91ad23856c0dd8625077b0b2789e7c29e8da6400f2c9e72d37d08a1c8b1526",
+            "usd_amount": 6066.69456847494
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 648311343765508000000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 53082968523862565000,
+            "tx_hash": "\\xeddcdffc22733ad9889765baf5d247a14a642f78c56a8bce5a1d23febb00ce22",
+            "usd_amount": 5906.11634170378
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 661951834985804000000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 51027610745427070000,
+            "tx_hash": "\\x95f661e8a193c1b10144a9cd159f571568175b82a9923e9922771e900c3df560",
+            "usd_amount": 5613.35156067962
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 620980561910473600000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 49008176743128290000,
+            "tx_hash": "\\x8802a7909f7ddd45e9a3cbb95e6363669e01fc73cddde6c7819bfd67634e79ac",
+            "usd_amount": 5303.17480537391
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 616245583145508500000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 47645421840957090000,
+            "tx_hash": "\\x2cfa148b8946219e469787179f40e10914b04385801124c3a2a68bf898c3d206",
+            "usd_amount": 5256.57482423119
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 650351286682596800000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 51676520000000000000,
+            "tx_hash": "\\x3a0c34e174fc2d8a65fb3c7a4988d6032f77ede785d74627b92deab07332ad78",
+            "usd_amount": 5157.28570339299
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 666266316714051900000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 53691023113776824000,
+            "tx_hash": "\\x152cb790e931f4e537bd204e4334f20846c019d103cd7e5f6eccf8341383e176",
+            "usd_amount": 5043.63601752537
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 599431355179256500000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 45852220589908345000,
+            "tx_hash": "\\x16fb88d5fca767ebeca47cdca08286a6e4a6f1a18f0e309ede8966adc1d076e9",
+            "usd_amount": 5041.21769705755
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 573987782794528560000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 47560894386298765000,
+            "tx_hash": "\\xb3a62de46ce80493e77adbf21aa1c52a90e5f64f972531a55b95d67a0013f1c7",
+            "usd_amount": 5033.87285510802
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 573966084575261400000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 47651572926596760000,
+            "tx_hash": "\\x10869b8ec89846f1912eed049a3de517810d06699ffbccebf4f0896843dee19a",
+            "usd_amount": 5033.68256172504
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 709766395265508800000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 57921784472769410000,
+            "tx_hash": "\\x59f7c8f3a9d61214129887cccf0f43246351342513fa88c2d585c78c926ec4a4",
+            "usd_amount": 5032.24374243246
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 717638724534523500000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 59425708445130646000,
+            "tx_hash": "\\x588221b8a1bbbd36e6d20d8ef0a9c97ac902cd58260c0aaa6207e1a5411dbde7",
+            "usd_amount": 5030.64745898701
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 627122682855117000000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 50542467138523760000,
+            "tx_hash": "\\x3ebf5d3bbbb5e86cab7b0847f222619a50cbfaeedcd2f02c84911aa5839114e4",
+            "usd_amount": 5029.52391649804
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 627082140412531800000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 50644883485309020000,
+            "tx_hash": "\\xd1f92fa0792fd3d5b3911f7e45e62372109c9b8e58517bd3dcdf314f40d5afc6",
+            "usd_amount": 5029.19876610851
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 620835934068243200000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 49519733981653460000,
+            "tx_hash": "\\x08a74c4301abd61160b3cd98b714b2a81e71415bcd64f54603bd9c38db9072ef",
+            "usd_amount": 5028.77106595277
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 624640626976179400000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 50237688442211060000,
+            "tx_hash": "\\x72cda408b112aa3294a6f0df1036f30cbef4687f55487697839a3fbde6e90189",
+            "usd_amount": 5028.35704715824
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 554955288226043660000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 45347293268621940000,
+            "tx_hash": "\\xafd9e9a1a6c2541c9ebf9efa16db33abfd258c1a0c6e6dc0c1a7eb2f7484b7f5",
+            "usd_amount": 5027.89491132796
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 706947327930314700000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 59436979785969080000,
+            "tx_hash": "\\xaa3175d1ceb2c274377fdb0eb6f504d0156161e3fecbc1c56ea7b518749c7b88",
+            "usd_amount": 5026.39550158454
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 702733915655495100000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 58795550996133960000,
+            "tx_hash": "\\x398f92cb5cf478c64a8e47bd03303565b64a5ccf5aa384d12bcfc262538d3509",
+            "usd_amount": 5024.54749693679
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 709582268674334100000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 58600820633059790000,
+            "tx_hash": "\\x27d894496525f50f9425dda777d57137dbe039b15f761d9a4c0d224c3118aafb",
+            "usd_amount": 5023.84246221429
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 713500262129847800000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 59225710900473930000,
+            "tx_hash": "\\x316f5d0bb51208c3d51d07882c6e54fb66c299dbbfb05284b97d64b3417122aa",
+            "usd_amount": 5023.04184539413
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 657452879945919800000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 52177974947807940000,
+            "tx_hash": "\\x1164ae0ecb3dd9c9decb9fa2805cbaa3f5a626b186c213db0b51f4e3c61b2ec3",
+            "usd_amount": 5022.94000278683
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 635756159149556100000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 50187248995983940000,
+            "tx_hash": "\\xa551d130c3f8159fa297cd6df5efac551ad63aabe43ba4a2cf163652a6f005a8",
+            "usd_amount": 5022.47365728149
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 630163128298632600000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 49277709159201970000,
+            "tx_hash": "\\x39553649f1d4fb8c53bfbd69b2c34c826aaa5858fde21a6e9dfe4ca5458f63c3",
+            "usd_amount": 5022.4001325401
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 716156470247158200000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 60516343825665860000,
+            "tx_hash": "\\x9bf938a7fd07a5facfa9435b6574a630fc976c28f1381b44bbc5e7ad1fc8fd60",
+            "usd_amount": 5020.25685643258
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 596717484043784400000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 45733302836230550000,
+            "tx_hash": "\\x04e9172e38249237ee2811536221084990c183cfebd2ab288d7f7a9c314bf5c1",
+            "usd_amount": 5018.39404080823
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 622624446024236300000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 49971831633856140000,
+            "tx_hash": "\\x7f9e97a7984581502497e1de009bd5f1ecf399de0d551385793acbdb22df3c35",
+            "usd_amount": 5018.35303495534
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 629640983298433400000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 50136910732196590000,
+            "tx_hash": "\\xf5b51e92cf48a5f83a05e7bd3252c3b76d57bcea70c53dc6339ae461337e3cec",
+            "usd_amount": 5018.23863688851
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 523769731172464000000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 44275022143489810000,
+            "tx_hash": "\\x3bd421f938be4e3988b4790673eaa1ae2a88720d94709c4aa65089ed00712688",
+            "usd_amount": 5017.71402463221
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 608119280312672200000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 46692015334659195000,
+            "tx_hash": "\\x050a3492a829895921165e57b323973b1592237f53a89ff1d7b02cd43e0fc797",
+            "usd_amount": 5016.98406257955
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 706610550009733600000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 56225871094606730000,
+            "tx_hash": "\\x6acf782ea96d5ffe461cba3e870f02eea6eaa976321439d29f764e8dc276ff2f",
+            "usd_amount": 5016.93490506911
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 703582532217954100000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 59295966785290630000,
+            "tx_hash": "\\x189be471251e59cf2146c6681e81caeceed76c6e800721f16b4c9636fa56117a",
+            "usd_amount": 5016.54345471401
+        },
+        "__typename": "get_result_template"
+    },
+    {
+        "data": {
+            "token_a_address": "\\x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_a_amount_raw": 623162385542889500000,
+            "token_b_address": "\\x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_b_amount_raw": 47833971291866040000,
+            "tx_hash": "\\x6f5f46655f66fef0960e0270f350d90fd8b3d816e11cad5bd963966f81c82ded",
+            "usd_amount": 5016.45720362026
+        },
+        "__typename": "get_result_template"
+    }
+]
